@@ -137,4 +137,4 @@ def update_data(chosen_rows,piedropval,linedropval):
 #------------------------------------------------------------------
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server
